@@ -168,11 +168,4 @@
     <string name="dc_dimming_enable_title">Chế độ chống nháy màn hình</string>
     <string name="dc_dimming_enable_summary">Giúp giảm mỏi mắt trong điều kiện ánh sáng yếu</string>
     <string name="dc_dimming_enable_summary_not_supported">Kernel hiện không hỗ trợ tính năng chống nháy</string>
-
-    <!-- Charge bypass strings -->
-    <string name="charge_bypass_title">Sạc trực tiếp</string>
-    <string name="charge_bypass_summary">Chế độ sạc trực tiếp (bypass charging), bỏ qua pin</string>
-    <string name="charge_bypass_warning">Cảnh báo: Sạc trực tiếp có thể làm tăng nhiệt độ thiết bị hoặc gây hỏng pin, nên sử dụng cẩn thận</string>
-    <string name="charge_bypass_unavailable">Kernel hiện không hỗ trợ tính năng sạc trực tiếp</string>
-    <string name="charge_bypass_safety_failed">Không thể bật sạc trực tiếp: %s</string>
 </resources>
